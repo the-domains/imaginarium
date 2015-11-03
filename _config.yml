@@ -1,0 +1,23 @@
+name: Imaginarium
+favicon: null
+layout_spectrum: 0.23736397712491453
+typography_spectrum: 0.11519166990183294
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9074641622137278
+  lightness: 0.9366537658497691
+  saturation: 0.268762941705063
+  rhythmicContrast: 0.3083353319671005
+purpose: []
