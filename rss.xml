@@ -4,7 +4,7 @@
         <description><![CDATA[Imaginarium]]></description>
         <link>https://thegrid.ai/imaginarium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 18:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 18:32:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/imaginarium/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the Imaginarium]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/imaginarium/welcome-to-the-imaginarium/index.html</link>
             <guid isPermaLink="false">24362e81-dab6-4347-b4a2-2cb0e1734057</guid>
             <pubDate>Tue, 03 Nov 2015 18:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/imaginarium/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">f0ec7e9d-e3fd-44d9-a955-956556bd3c38</guid>
+            <pubDate>Tue, 03 Nov 2015 18:32:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
