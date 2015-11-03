@@ -4,7 +4,7 @@
         <description><![CDATA[Imaginarium]]></description>
         <link>https://thegrid.ai/imaginarium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 18:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 18:36:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/imaginarium/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the Imaginarium]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/imaginarium/welcome-to-the-imaginarium/index.html</link>
             <guid isPermaLink="false">24362e81-dab6-4347-b4a2-2cb0e1734057</guid>
             <pubDate>Tue, 03 Nov 2015 18:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Images]]></title>
+            <description><![CDATA[<article><h1>Images</h1><p>Grapes in Umbria</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd2f7eeb-befa-4473-b121-f14af1a1a0c4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/imaginarium/images/index.html</link>
+            <guid isPermaLink="false">9393727d-d1ce-48f8-9b98-2b957b2bcd50</guid>
+            <pubDate>Tue, 03 Nov 2015 18:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
